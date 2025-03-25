@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Salafudin729 I am from Indonesia</h2>
+<h2 align="left">Hello!, I'm Dinzzz729, a Indonesian Web Developer 👋🏼</h2>
 
 ###
 
